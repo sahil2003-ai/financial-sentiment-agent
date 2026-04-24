@@ -144,11 +144,11 @@ Confidence: 0.65
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### ⚡ API Docs
 
-![Dashboard](screenshots/api.png)
+![Dashboard](api.png)
 
 ---
 
